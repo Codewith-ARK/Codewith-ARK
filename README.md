@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+<div style="display: flex; flex-direction:row; justify-content:center; align-items:center; gap:8px;">
   
   ![](https://github-readme-stats.vercel.app/api?username=codewith-ark&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)
   ![](https://github-readme-streak-stats.herokuapp.com/?user=codewith-ark&theme=dracula&hide_border=false)
