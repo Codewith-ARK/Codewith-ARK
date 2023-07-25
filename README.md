@@ -1,7 +1,5 @@
 # 💫 About Me:
 
-<img src="https://media3.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=ecf05e47v1nxj7zmiqnflnplizbliz88m41ow1an51ers45f&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200px" align="right"/>
-
 ## Hello World! <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_1f44b.gif" width="24px" height="24px" />
 
 - 😀 My name is **`Abdul Rehman Khan`**, but you can call me **`ARK`**
