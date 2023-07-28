@@ -10,14 +10,19 @@
 - 📧 khan456tdm@gmail.com 
 - 🌐 [iamARK.tech](https://iamARK.tech)
 ## 💡 Top Creations:
-- **[Muft Taleem](https://github.com/Codewith-ARK/mufttaleem)** - a project built to provide free resources for learning **Computer Science**
-- **[DSA Notes](https://github.com/Codewith-ARK/DSA-notes)** - sharing my knowldge of DSA
+- **[Portfolio](https://iamARK.tech)** - My personal portfolio website.
+- **[GadgetWala](https://abdullah-dev5.github.io/E-Commerce)** - an e-commerce store website.
+- **[Muft Taleem](https://github.com/Codewith-ARK/mufttaleem)** - a project built to provide free resources for learning **Computer Science**.
+- **[DSA Notes](https://github.com/Codewith-ARK/DSA-notes)** - sharing my knowldge of DSA.
 
 ## 🌐 Socials:
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rehman-khan-6505a4160/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codewithark) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithark)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codewithark) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamARK) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codewithark) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@codewithark)
 
 </div>
 <!--
